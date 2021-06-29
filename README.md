@@ -5,8 +5,11 @@
 
 <p align="center"> Feel free to reach me trough my Twitter account: <a href="https://twitter.com/_michellemello" target="blank">@_michellemello</a></p>
 
+<ul>
+  <p> 🌱 I’m currently learning HTML5, CSS3, Javascript and Java </p>
+  <p> 📫 How to reach me: @_michellemello </p>
+  <p> 😄 Pronouns: she/her </p>
+</ul> 
 
-- 🌱 I’m currently learning HTML5, CSS3, Javascript and Java
-- 📫 How to reach me: @_michellemello
-- 😄 Pronouns: she/her
-
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemello&theme=radical&show_icons=true)](https://github.com/michellemello/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michellemello&layout=compact)](https://github.com/michellemello/github-readme-stats) 
