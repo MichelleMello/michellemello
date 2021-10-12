@@ -6,7 +6,7 @@
 <p align="center"> Feel free to reach me trough my Twitter account: <a href="https://twitter.com/_michellemello" target="blank">@_michellemello</a></p>
 
 <ul>
-  <p> 🌱 I’m currently learning HTML5, CSS3, Javascript and Python</p>
+  <p> 🌱 HTML5, CSS3, Javascript and Python</p>
   <p> 📫 How to reach me: @_michellemello </p>
   <p> 😄 Pronouns: she/her </p>
 </ul> 
