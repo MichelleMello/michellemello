@@ -6,7 +6,7 @@
 <div align="center"
 <ul>
   <p> 🌱 HTML5, CSS3, Javascript and Python</p>
-  <p> 📫 How to reach me: @_michellemello </p>
+  <p> 📫 How to reach me: <a href="https://twitter.com/_michellemello" target="_blank"> @_michellemello </a></p>
   <p> 😄 Pronouns: she/her </p>
 </ul> 
 </div>
