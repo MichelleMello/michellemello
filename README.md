@@ -1,11 +1,11 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center"> My name is Michelle. I'm a journalist and work as technical writer. Currently, I'm studying HTML5, CSS3, Javascript, Java and Python.</p>
+<p align="center"> My name is Michelle. I'm a journalist working as technical writer and studying software engineering at Unicesumar. Currently, I'm studying HTML5, CSS3, Javascript, Java and Python.</p>
 
 ##
 <div align="center"
 <ul>
-  <p> 🌱 HTML5, CSS3, Javascript and Python</p>
+  <p> 🌱 HTML5, CSS3 and Javascript</p>
   <p> 📫 How to reach me: <a href="https://twitter.com/_michellemello" target="_blank"> @_michellemello </a></p>
   <p> 😄 Pronouns: she/her </p>
 </ul> 
