@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center"> My name is Michelle. I'm a journalist working as technical writer and studying software engineering at Unicesumar. Currently, I'm studying HTML5, CSS3, Javascript, Java and Python.</p>
+<p align="center"> My name is Michelle. I'm a journalist working as technical writer. Currently, I'm studying HTML5, CSS3, Javascript, Java and Python.</p>
 
 ##
 <div align="center"
