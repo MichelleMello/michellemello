@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
 <p align="center"> My name is Michelle Mello. I'm a Technical Documentation Analyst in a brazilian Multinational Corporation. Currently, I'm studying UX Design and Front-end developement.</p>
-<p align="center">Hope to get better and better each day. Feel free to reach me always. Looking foward to excheange knowlodge.</p>
+<p align="center">Hope to get better and better each day. Feel free to reach me always. Looking foward to exchange knowlodge.</p>
 
 ##
 <div align="center"
