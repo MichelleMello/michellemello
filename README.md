@@ -8,12 +8,7 @@
 <ul>
   <p> ✍️ UX Writer and Technical Writer</p>
   <p> 🤖 HTML5, CSS3 and Javascript</p>  
-  <p> 📫 How to reach me:
-  <ul>
-    <p> X (Twitter): <a href="https://twitter.com/_michellemello" target="_blank">@_michellemello </a></p>
-    <p> LinkedIn: <a href="https://www.linkedin.com/in/michelle-mello" target="_blank"> Michelle Mello </a></p>
-  </p>
-  <p> 😄 Pronouns: she/her </p>
+   <p> 😄 Pronouns: she/her </p>
 </ul> 
 </div>
 
