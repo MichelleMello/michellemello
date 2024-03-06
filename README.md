@@ -1,13 +1,18 @@
 <h1 align="center"> Hi there 👋 </h1> 
 
-<p align="center"> My name is Michelle Mello. I'm a technical writer in a brazilian TI company. Currently, I'm studying UX Design and Web developement. Hope to get better and better each day. </p>
+<p align="center"> My name is Michelle Mello. I'm a Technical Documentation Analyst in a brazilian Multinational Corporation. Currently, I'm studying UX Design and Front-end developement.</p>
+<p></p>Hope to get better and better each day. Feel free to reach me always. Looking foward to excheange knowlodge.</p>
 
 ##
 <div align="center"
 <ul>
-  <p>✍️ UX Design and Tech Writer</p>
+  <p> ✍️ UX Writer and Technical Writer</p>
   <p> 🤖 HTML5, CSS3 and Javascript</p>  
-  <p> 📫 How to reach me: <a href="https://twitter.com/_michellemello" target="_blank"> @_michellemello </a></p>
+  <p> 📫 How to reach me:
+  <ul>
+    <p> X (Twitter): <a href="https://twitter.com/_michellemello" target="_blank">@_michellemello </a></p>
+    <p> LinkedIn: <a href="https://www.linkedin.com/in/michelle-mello" target="_blank"> Michelle Mello </a></p>
+  </p>
   <p> 😄 Pronouns: she/her </p>
 </ul> 
 </div>
