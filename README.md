@@ -28,4 +28,4 @@
 
 ##
 <div align="center" style="display: inline_block"><br>
-![Michelle Mello's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemelloa&show_icons=true&theme=transparent)/>
+<img src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical&include_all_commits=true" align="center">
