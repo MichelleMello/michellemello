@@ -28,4 +28,7 @@
 
 ##
 <div align="center" style="display: inline_block"><br>
-<img src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical&include_all_commits=true" align="center">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical&include_all_commits=true"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellemello&layout=compact">
+</div>
+
