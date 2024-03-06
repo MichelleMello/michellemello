@@ -28,4 +28,4 @@
 
 ##
 <div align="center" style="display: inline_block"><br>
-<source srcset="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+![Michelle Mello's GitHub stats](https://github-readme-stats.vercel.app/api?username=michellemelloa&show_icons=true&theme=transparent)/>
