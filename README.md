@@ -12,7 +12,6 @@
     <a href = "mailto:mello.de.michelle@gmail.com"><img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href = "https://dev.to/_michellemello"><img height="30" src="https://img.shields.io/badge/-Dev.to-%23333?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a> 
   </div>
-
 </div>
 
 <div align="center">
