@@ -4,6 +4,9 @@
 
 <p align="center">Hope to get better and better each day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
 
+<div align="center">
+  <a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
+</div>
 
 <div align="center" style="display: inline_block"><br>
   <div align="center">
@@ -45,6 +48,7 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical&include_all_commits=true">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellemello&layout=donut&theme=radical">
 </div>
+
 
 
 
