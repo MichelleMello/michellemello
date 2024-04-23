@@ -45,7 +45,7 @@
  
 ##
 <div align="center" style="display: inline_block">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical&include_all_commits=true">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical">
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michellemello&layout=donut&theme=radical">
 </div>
 
