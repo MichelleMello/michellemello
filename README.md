@@ -29,7 +29,9 @@ Hello! **I'm a junior front-end developer, studying to become full stack**. Look
 
 ## Stats
 
-<a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
+<div  align="center">
+  <a href="https://wakatime.com/@018e864b-c555-4395-be78-3f9a65937485"><img src="https://wakatime.com/badge/user/018e864b-c555-4395-be78-3f9a65937485.svg" alt="Total time coded since Mar 28 2024" /></a>
+</div>
 
 <div align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=michellemello&show_icons=true&theme=radical">
