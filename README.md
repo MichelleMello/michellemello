@@ -1,7 +1,7 @@
 
-Hello! **I'm a junior front-end developer, studying to become full stack**. Looking for an opportunity working as developer this year. Right now, **I work as Technical Documentation Analyst in a brazilian multinacional corporation**. Here, you will find projects were I'm working on. There
+Hello everyone. **I am a junior front-end developer, studying to become full stack**. Looking for an opportunity to work as a developer this year. Right now, **I worked as a technical documentation analyst in a Brazilian multinational company and now I work at an innovation institute**. Here you can find projects I'm working on. This is my Learning Hub, which contains all my learning repositories.
 
-**Right now, I'm studying Node.JS and tests**. Also, I'm always reviewing HTML, CSS and Javascript. 
+Below are all my social media and the technologies I have experience with or am studying. Please, feel free to contact me at any time! :D
 
 <div align="center">
   <a href="https://twitter.com/_michellemello" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
