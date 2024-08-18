@@ -1,7 +1,9 @@
 
-Hello everyone. **I am a junior front-end developer, studying to become full stack**. Looking for an opportunity to work as a developer this year. Right now, **I worked as a technical documentation analyst in a Brazilian multinational company and now I work at an innovation institute**. Here you can find projects I'm working on. This is my Learning Hub, which contains all my learning repositories.
+I'm a technology professional with a solid degree in Journalism from the Regional University of Blumenau and a strong **background in technical writing, UX Design and front-end development**. With a **three-year career as a Technical Writer** in technology companies, I specialized in communicating technical content to different user profiles and leading teams, applying agile methodologies such as Kanban and Scrum. I currently work as a Technical Writer at Instituto Atlântico, where I optimize documentation processes using tools such as Google Workspace and Jira.
 
-Below are all my social media and the technologies I have experience with or am studying. Please, feel free to contact me at any time! :D
+In addition to my professional experience, **I'm deepening my knowledge of UX/UI Design and Agile Management by studying for a postgraduate degree and an MBA in these areas**. **I also invest daily in my technical development, studying languages such as HTML, CSS and JavaScript.** With a multidisciplinary profile, I always try to combine my technical writing skills with digital product design and software development.
+
+I'm constantly looking for opportunities that will allow me to develop my career, apply my knowledge and contribute to the technology community. **If you're interested in talking about opportunities or exchanging knowledge, feel free to get in touch.**
 
 <div align="center">
   <a href="https://twitter.com/_michellemello" target="_blank"> <img height="30" src="https://img.shields.io/badge/Twitter-%23333?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
